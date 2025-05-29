@@ -1,0 +1,7 @@
+{
+  "python.pythonPath": "backend/venv/bin/python",
+  "terminal.integrated.defaultProfile.windows": "Git Bash", // or your preferred shell
+  "files.exclude": {
+    "**/__pycache__": true
+  }
+}
