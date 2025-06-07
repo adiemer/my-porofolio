@@ -12,7 +12,7 @@ function Experience() {
   }, []);
 
   return (
-    <section id="experience" className="p-6">
+    <section id="experience" className="pt-20 p-8 my-8 rounded-lg bg-blue-900 text-white">
       <h2 className="text-2xl font-bold mb-4">Work Experience</h2>
       {experience.map((item) => (
         <div key={item.id} className="mb-4 border-b pb-2">

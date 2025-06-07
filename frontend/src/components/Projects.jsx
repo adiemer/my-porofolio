@@ -12,8 +12,8 @@ function Projects() {
   }, []);
 
   return (
-    <section className="p-6">
-      <h2 className="text-2xl font-bold mb-4">Projects</h2>
+    <section className="pt-20 p-8 my-8 rounded-lg bg-blue-900 text-white">
+      <h2 className="text-2xl font-bold mb-4">Software Projects</h2>
       {projects.map((project) => (
         <div key={project.id} className="mb-4">
           <h3 className="text-xl font-semibold">{project.title}</h3>
