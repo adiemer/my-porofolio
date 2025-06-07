@@ -9,9 +9,8 @@ function App() {
     <div className="font-sans bg-white">
       <Navbar />
       <About />
-      <Projects />
       <Experience />
-      <Contact />
+      <Projects />
     </div>
   );
 }

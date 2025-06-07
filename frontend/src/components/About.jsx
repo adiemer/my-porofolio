@@ -4,8 +4,9 @@ function About() {
       <div className="max-w-3xl mx-auto">
         <h2 className="text-2xl font-bold mb-2">About Me</h2>
         <p className="bg-blue-900 text-white">
-          Hi, I'm a passionate software developer with experience in building full-stack applications using modern
-          technologies. I enjoy solving real-world problems and continuously learning.
+          Software Engineer with more than ten years of overall experience in the private and public arena.
+          Responsibilities range from batch scripting, DevOps CI/CD setup and maintenance to developing within all
+          phases of the SDLC. Successful in agile operations and procedures as well as productive parts of a team.
         </p>
         <ul className="mt-4 list-disc pl-5">
           <li>React / Django / Firebase</li>
